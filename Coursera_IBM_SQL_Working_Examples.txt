@@ -1,3 +1,30 @@
+
+Skip to content
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @mciaccio
+
+1
+0
+
+    0
+
+mciaccio/SQLWorkingExamples
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Insights
+Settings
+SQLWorkingExamples/Coursera_IBM_SQL_Working_Examples.txt
+4e1116f 19 hours ago
+@mciaccio mciaccio Coursera_IBM_SQL_Working_Examples February 2019
+76 lines (61 sloc) 4.03 KB
 -- My work first 
 -- followed by the given solution - Lab Solution
 
@@ -72,4 +99,5 @@
 -- SELECT empT.F_NAME, empT.L_NAME, empT.DEP_ID, deptT.dep_name FROM DEPARTMENTS deptT, EMPLOYEES empT ORDER BY deptT.dep_name DESC, empT.L_NAME DESC; 
 -- Lab Solution - mine precision
 SELECT deptT.dep_name, empT.F_NAME, empT.L_NAME FROM EMPLOYEES empT, DEPARTMENTS deptT ORDER BY deptT.dep_name, empT.L_NAME DESC; 
+
 

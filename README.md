@@ -1,1 +1,1 @@
-Coursera IBM Db2 on Cloud - working SQL statements
+Coursera IBM Db2 on Cloud - working SQL statements 

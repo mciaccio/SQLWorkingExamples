@@ -1,4 +1,4 @@
--- Drop the PETSALE table in case it exists
+-- Drop the PETSALE table in case it exists 
 drop table PETSALE;
 -- Create the PETSALE table 
 create table PETSALE (
